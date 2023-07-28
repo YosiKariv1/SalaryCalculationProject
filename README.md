@@ -29,5 +29,5 @@ Upon launching the application, you will have the option to manually add an empl
 
 ## Contact Information
 
-Your Name - Yosi277@gmail.com
-LinkedIn - Yosi Kariv
+- Your Name - Yosi277@gmail.com
+- LinkedIn - Yosi Kariv
