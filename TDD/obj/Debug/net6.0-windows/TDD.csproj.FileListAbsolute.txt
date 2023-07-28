@@ -1,0 +1,82 @@
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.AssemblyReference.cache
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.GenerateResource.cache
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfoInputs.cache
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfo.cs
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.CoreCompileInputs.cache
+C:\Users\Yosi\source\repos\TDD\TDD\bin\Debug\net6.0-windows\TDD.exe
+C:\Users\Yosi\source\repos\TDD\TDD\bin\Debug\net6.0-windows\TDD.deps.json
+C:\Users\Yosi\source\repos\TDD\TDD\bin\Debug\net6.0-windows\TDD.runtimeconfig.json
+C:\Users\Yosi\source\repos\TDD\TDD\bin\Debug\net6.0-windows\TDD.dll
+C:\Users\Yosi\source\repos\TDD\TDD\bin\Debug\net6.0-windows\ref\TDD.dll
+C:\Users\Yosi\source\repos\TDD\TDD\bin\Debug\net6.0-windows\TDD.pdb
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.dll
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\ref\TDD.dll
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.pdb
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.genruntimeconfig.cache
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.AddEmpolyFrame.resources
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.EmployListFrame.resources
+C:\Users\Yosi\source\repos\TDD\TDD\obj\Debug\net6.0-windows\TDD.MainProgramFrame.resources
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\bin\Debug\net6.0-windows\TDD.exe
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\bin\Debug\net6.0-windows\TDD.deps.json
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\bin\Debug\net6.0-windows\TDD.runtimeconfig.json
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\bin\Debug\net6.0-windows\TDD.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\bin\Debug\net6.0-windows\TDD.pdb
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.AssemblyReference.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.AddEmpolyFrame.resources
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.EmployListFrame.resources
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.MainProgramFrame.resources
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.GenerateResource.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfoInputs.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfo.cs
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.CoreCompileInputs.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\refint\TDD.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.pdb
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.genruntimeconfig.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\ref\TDD.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.CopyComplete
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.AssemblyReference.cache
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.AddEmpolyFrame.resources
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.EmployListFrame.resources
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.MainProgramFrame.resources
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.GenerateResource.cache
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfoInputs.cache
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfo.cs
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.CoreCompileInputs.cache
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.dll
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\ref\TDD.dll
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.pdb
+C:\Users\Yosi\Desktop\TDD\TDD\bin\Debug\net6.0-windows\TDD.exe
+C:\Users\Yosi\Desktop\TDD\TDD\bin\Debug\net6.0-windows\TDD.deps.json
+C:\Users\Yosi\Desktop\TDD\TDD\bin\Debug\net6.0-windows\TDD.runtimeconfig.json
+C:\Users\Yosi\Desktop\TDD\TDD\bin\Debug\net6.0-windows\TDD.dll
+C:\Users\Yosi\Desktop\TDD\TDD\bin\Debug\net6.0-windows\ref\TDD.dll
+C:\Users\Yosi\Desktop\TDD\TDD\bin\Debug\net6.0-windows\TDD.pdb
+C:\Users\Yosi\Desktop\TDD\TDD\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.csproj.CopyComplete
+C:\Users\Yosi\Desktop\TDD\TDD\obj\Debug\net6.0-windows\TDD.genruntimeconfig.cache
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\bin\Debug\net6.0-windows\TDD.exe
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\bin\Debug\net6.0-windows\TDD.deps.json
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\bin\Debug\net6.0-windows\TDD.runtimeconfig.json
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\bin\Debug\net6.0-windows\TDD.dll
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\bin\Debug\net6.0-windows\TDD.pdb
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.csproj.AssemblyReference.cache
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.AddEmpolyFrame.resources
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.EmployListFrame.resources
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.MainProgramFrame.resources
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.csproj.GenerateResource.cache
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfoInputs.cache
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.AssemblyInfo.cs
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.csproj.CoreCompileInputs.cache
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.csproj.CopyComplete
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.dll
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\refint\TDD.dll
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.pdb
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\TDD.genruntimeconfig.cache
+C:\Users\yosi2\OneDrive - ac.sce.ac.il\שולחן העבודה\פרויקטים בתכנות\TDD - Project For Salary Calculation\TDD\obj\Debug\net6.0-windows\ref\TDD.dll

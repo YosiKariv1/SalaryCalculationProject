@@ -1,0 +1,210 @@
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.deps.json
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.runtimeconfig.json
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.exe
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.deps.json
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.runtimeconfig.json
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.pdb
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.pdb
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.csproj.AssemblyReference.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.AssemblyInfoInputs.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.AssemblyInfo.cs
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.csproj.CoreCompileInputs.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.csproj.CopyComplete
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\refint\TDDTests.dll
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.pdb
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.genruntimeconfig.cache
+C:\Users\yosi2\OneDrive\שולחן העבודה\TDD\TDDTests\obj\Debug\net6.0-windows\ref\TDDTests.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.deps.json
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.runtimeconfig.json
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.exe
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.deps.json
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.runtimeconfig.json
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ref\TDDTests.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDDTests.pdb
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\bin\Debug\net6.0-windows\TDD.pdb
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.csproj.AssemblyReference.cache
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.AssemblyInfoInputs.cache
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.AssemblyInfo.cs
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.csproj.CoreCompileInputs.cache
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.csproj.CopyComplete
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\ref\TDDTests.dll
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.pdb
+C:\Users\Yosi\Desktop\TDD\TDDTests\obj\Debug\net6.0-windows\TDDTests.genruntimeconfig.cache

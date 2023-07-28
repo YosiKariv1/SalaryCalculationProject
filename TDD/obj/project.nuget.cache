@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4dRltJSAZKrfspdGUZE9JfNh3thjCAo2Wl/Wa61O9GQcBCFnGt5z9LI7L4KHJctDr0VxtChjoWrT3L6UKkiag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yosi2\\OneDrive - ac.sce.ac.il\\שולחן העבודה\\פרויקטים בתכנות\\TDD - Project For Salary Calculation\\TDD\\TDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosi2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yosi2\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\yosi2\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
